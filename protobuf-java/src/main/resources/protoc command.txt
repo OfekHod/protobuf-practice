@@ -1,0 +1,2 @@
+run from cmd inside resources folder:
+        protoc --java_out=../java/ addressbook.proto
