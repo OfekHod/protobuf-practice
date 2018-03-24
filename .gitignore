@@ -14,3 +14,7 @@ hs_err_pid*
 *.iml
 protobuf-java/.idea/
 protobuf-java/out/
+protobuf-java/.gradle/
+protobuf-java/build/
+*.ipr
+*.iws
